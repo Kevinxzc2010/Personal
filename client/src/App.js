@@ -1,7 +1,11 @@
+import Home from "./pages/Home";
+import NavBar from "./components/NavBar";
+import { BrowserRouter, Routes, Route } from "react-router-dom";
+
 function App() {
   return (
     <div>
-      <h1>HELLO!</h1>
+      <NavBar />
     </div>
   );
 }

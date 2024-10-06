@@ -1,0 +1,11 @@
+.topbar {
+    background-color: #282c34; /* Dark background color */
+    padding: 20px; /* Padding around the bar */
+    text-align: center; /* Center the text */
+    color: white; /* White text color */
+  }
+  
+  .topbar-title {
+    margin: 0; /* Remove default margin */
+    font-size: 24px; /* Font size for the title */
+  }
